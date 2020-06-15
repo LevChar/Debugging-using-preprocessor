@@ -8,12 +8,12 @@
 #endif
 
 #define DEB(fmt, ...) 	            	          \
-    do { 		        	                      \
+    do {                                          \
         if (DEBUG_RUN) 	                          \
         fprintf(stderr,                           \
             "Debug information ::: "              \
             "FILE: %s FUNC: %s() LINE:%d - "      \
-            fmt,	                              \
+            fmt,                                  \
             __FILE__,                             \
             __func__, 	                          \
             __LINE__,                             \
