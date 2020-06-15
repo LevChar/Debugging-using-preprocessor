@@ -1,14 +1,14 @@
 # Debugging-using-preprocessor
-Debugging using preprocessor and macros in c
+Debugging using preprocessor and macros in c.
 
 ## **Purpose:**
-This peace of code was created for testing some advanced preprocessor debugging of c program.
+This piece of code was created for testing some advanced preprocessor debugging of c programs.
 
 ## **Compilation & Execution:**
-Download \ clone the whole repo & compile using "-D DEBUG" flag to see prints regard debugging.
+Download \ clone the whole repo & compile using the "-D DEBUG" flag to see printing regarding debugging.
 
 ## **Compatibility:**
-Program was compiled and tested in Linux (Ubunto) environment using gcc.
+This program was compiled and tested in Linux (Ubunto) environment using gcc.
 
 ## **Notice:**
 The demo program contains segmentation fault (for demo purpose).
